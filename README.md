@@ -14,7 +14,7 @@ The Smart Irrigation System is a project solution that aims to facilitate small 
 ![CircuitDiagram](./resources/finalCircuit.webp)
 
  
-### Videos :video_camara:
+### Videos :video_camera:
 :battery: [5V DC Motor](https://youtu.be/QEIF5RqSYGQ)<br>
 :cactus: [Soil Moisture](https://youtu.be/ukuF3xT2OrU)<br>
 :checkered_flag:[Final Project Testing](https://youtu.be/HzY8GzEWSyE)
